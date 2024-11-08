@@ -1,12 +1,12 @@
 body {
 
     color: white;
-    background-color: black;
+    background-color: rgb(226, 27, 27);
     margin: 0px;
     
     }
     header {
-    border-bottom: solid 2px rgb(42, 122, 228) ;
+    border-bottom: solid 2px rgb(88, 146, 221) ;
     padding: 20px;
     font-size: 32p;
     color:rgb(42, 122, 228)
@@ -23,3 +23,23 @@ body {
     margin-right: 5%
     
     }
+
+    section { 
+        background: rgb(214, 110, 124) ;
+        padding-bottom: 80px ;
+        padding-top: 80px;
+        display: flex ;
+        justify-content: center ;
+        }
+
+
+
+
+
+        h1 {
+            font-size: 40px
+        }
+
+        p { 
+        font-size: 20px
+        {
